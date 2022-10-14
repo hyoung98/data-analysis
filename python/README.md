@@ -1,8 +1,17 @@
-### 미세먼지 
+### 미세먼지 수치 시각화 (서울 특별시 기준)
 
 자료이용
-- 서울시 공공 자전거 이용정보(월별)/(2021년 기준) : http://data.seoul.go.kr/dataList/OA-15248/F/1/datasetView.do 
-- 대여소 정보(2021.12기준) : http://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do
+- https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123
+- 자료 출처 : 에어코리아 -> 통계정보 -> 확정자료 다운로드 -> 최종확정자료 연도별 다운로드 -> 2021년(1월~12월)
+
+측정항목
+- SO2 = 산소포화량
+- CO = 일산화탄소
+- O3 = 오존
+- NO2 = 이산화질소
+- PM10 = 미세먼지
+- PM25 = 초미세먼지
+
 
 ### 202201 전국 인구수 분석
 
