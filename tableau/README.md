@@ -10,9 +10,11 @@
 - https://www.mois.go.kr/frt/a01/frtMain.do(행정안정부->주민등록인구통계)
 - 202201 인구현황
 
-| file | Description |
-| ------ | ------ |
-| seoul_bike_2021.ipynb | 서울시 공공자전거(2021) 전처리 |
-| 인구수전처리.ipynb | 연령대별 인구수 전처리 |
-| 서울시 공공자전거_2021_완성.pdf | 태블로 시각화 |
-| 연령대별 인구수_최종.pdf | 시각화 |
+| Tolls & Language | file | Description |
+| ------ | ------ | ------ |
+| | seoul_bike_2021.ipynb | 서울시 공공자전거(2021) 전처리 |
+| | 인구수전처리.ipynb | 연령대별 인구수 전처리 |
+| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> |[Tableau](https://github.com/hyoung98/data-analysis/tree/main/tableau) | 서울시 공공자전거_2021_완성.pdf | 태블로 시각화 |
+| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> |[Tableau](https://github.com/hyoung98/data-analysis/tree/main/tableau) | 연령대별 인구수_최종.pdf | 시각화 |
+
+
