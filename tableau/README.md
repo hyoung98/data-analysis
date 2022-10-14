@@ -14,7 +14,9 @@
 | ------ | ------ | ------ |
 | | seoul_bike_2021.ipynb | 서울시 공공자전거(2021) 전처리 |
 | | 인구수전처리.ipynb | 연령대별 인구수 전처리 |
-| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> |[Tableau](https://github.com/hyoung98/data-analysis/tree/main/tableau) | 서울시 공공자전거_2021_완성.pdf | 태블로 시각화 |
-| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> |[Tableau](https://github.com/hyoung98/data-analysis/tree/main/tableau) | 연령대별 인구수_최종.pdf | 시각화 |
+
+| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> | 서울시 공공자전거_2021_완성.pdf | 태블로 시각화 |
+
+| <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> | 연령대별 인구수_최종.pdf | 태블로 시각화 |
 
 
