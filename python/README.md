@@ -31,5 +31,5 @@
 | 2021_대기오염물질.ipynb | 미세먼지 수치 분석 |
 | 202201_population.ipynb | 202201 인구수 분석 |
 | public_transit.ipynb | 승하차 승객수 분석 |
-| public_transit_time.ipynb |  |
+| public_transit_time.ipynb | 출퇴근 승객수 분석 |
 
