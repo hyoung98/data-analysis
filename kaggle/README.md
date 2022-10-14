@@ -5,11 +5,16 @@
 
 ### Student Performance Dataset (kaggle)
 
-학생성취도자료는중학교수학과정설문조사에서입수한자료
+설명 : 학생성취도자료는중학교수학과정설문조사에서입수한자료
 성별, 나이, 가족의 크기, 아버지 교육, 어머니 교육, 아버지와 어머니의 직업, 가족 관계, 건강 및 등급
-자료이용
 
+자료이용
 - https://www.kaggle.com/ (kaggle)
+
+### World Happiness Report (kaggle)
+
+자료이용
+- https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 | file | Description |
 | ------ | ------ |
