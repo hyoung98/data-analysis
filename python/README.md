@@ -15,12 +15,21 @@
 
 ### 202201 인구현황 분석하기
 
-
 자료이용
 - https://www.mois.go.kr/frt/a01/frtMain.do(행정안정부->주민등록인구통계)
 - 202201 인구현황
+
+### 대중교통 통계자료
+
+
+자료이용
+- 티머니 카드&페이 -> 이용안내 -> 대중교통 통계자료
+- https://pay.tmoney.co.kr/index.dev
 
 | file | Description |
 | ------ | ------ |
 | 2021_대기오염물질.ipynb | 미세먼지 수치 분석 |
 | 202201_population.ipynb | 202201 인구수 분석 |
+| public_transit.ipynb |  |
+| public_transit_time.ipynb |  |
+
