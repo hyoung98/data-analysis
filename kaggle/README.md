@@ -16,8 +16,8 @@
 자료이용
 - https://www.kaggle.com/datasets/unsdsn/world-happiness
 
-| file | Description |
-| ------ | ------ |
-| Netflix.ipynb | 파이썬 시각화 |
-| Student Performance.ipynb | 파이썬 시각화 |
-| World Happiness Report.ipynb | 파이썬 시각화 |
+| Tolls & Language | file | Description |
+| ------ | ------ | ------ |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | Netflix.ipynb | 파이썬 시각화 |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | Student Performance.ipynb | 파이썬 시각화 |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | World Happiness Report.ipynb | 파이썬 시각화 |
