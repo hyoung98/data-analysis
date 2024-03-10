@@ -24,10 +24,10 @@
   -  https://www.kaggle.com/ (kaggle)
 <h4> 🧐 분석 목적 </h4> 
     1. 학생의 성취도와 연관이 있는 요인은 무엇인가?
-      - 부모의 master's degree(석사학위)는 수학, 읽기, 쓰기의 평균이 가장 높았다.
-      - 학력 수준이 영향을 받는다고 할 수 있다.
+      - 부모의 master's degree(석사학위)는 수학, 읽기, 쓰기의 평균이 가장 높았습니다.
+      - 학력 수준이 영향을 받는다고 할 수 있습니다.
     2. 학생의 점수를 높이기 위한 좋은 방법은 무엇인가?
-      - math score, writing score, reading score 평균 모두 시험준비과정을 완료한 학생이 높았다. 
+      - math score, writing score, reading score 평균 모두 시험준비과정을 완료한 학생이 높았습니다.
 2. 분석 라이브러리
   - 판다스, 넘파이, 맷플롯립, 시본 pandas / seaborn / numpy / matplotlib
 5. 컬럼
@@ -39,11 +39,10 @@
 1. 자료출처
   -  https://www.kaggle.com/datasets/unsdsn/world-happiness
 <h4> 🧐 분석 목적 </h4> 
-    1. 
-      - 
-      - 
-    2. 
-      - 
+    1. Freedom은 행복에 영향을 미치는가?
+      - korea의 자유에 대한 수치는 2015년 이후부터 떨어지고있습니다. / 2015년 이후부터 행복순위는 떨어지고있습니다.
+    2. 한국의 행복 순위는 어떻게 변화되었는가?
+      - 순위가 가장 높은 연도는 2015년도 이며, 가장 낮은 연도는 2018, 2016년도 입니다.
 2. 분석 라이브러리
   - 판다스, 넘파이, 맷플롯립, 시본 pandas / seaborn / numpy / matplotlib
 
