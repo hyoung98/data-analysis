@@ -47,6 +47,8 @@
   - 판다스, 넘파이, 맷플롯립, 시본 pandas / seaborn / numpy / matplotlib
 
 <h4> 📎 파일에 대한 정보 </h4>
+
+
 | Tolls & Language | file | Description |
 | ------ | ------ | ------ |
 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | Netflix.ipynb | 파이썬 시각화 |
